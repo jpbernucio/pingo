@@ -5,7 +5,7 @@
 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![GitHub License](https://img.shields.io/github/license/Joao-PauloBR/pingo?style=for-the-badge)
+  ![GitHub License](https://img.shields.io/github/license/jpbernucio/pingo?style=for-the-badge)
   ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 </div>
 
@@ -84,7 +84,7 @@ flutter run
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Por favor, leia o [CONTRIBUTING.md](https://github.com/Joao-PauloBR/pingo/blob/main/CONTRIBUTING.md) para detalhes sobre nosso código de conduta e processo de submissão de pull requests.
+Contribuições são bem-vindas! Por favor, leia o [CONTRIBUTING.md](https://github.com/jpbernucio/pingo/blob/main/CONTRIBUTING.md) para detalhes sobre nosso código de conduta e processo de submissão de pull requests.
 
 ## 🛤️ Próximas Features
 
@@ -99,7 +99,7 @@ Este projeto está licenciado sob a Apache 2.0 - veja o arquivo [LICENSE](LICENS
 ## 👨‍💻 Autor
 
 **João Paulo Souza Bernucio**
-- GitHub: [@Joao-PauloBR](https://github.com/Joao-PauloBR)
+- GitHub: [@jpbernucio](https://github.com/jpbernucio)
 
 ---
 
